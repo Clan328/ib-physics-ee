@@ -130,3 +130,6 @@ dmypy.json
 
 .DS_Store
 *.h5
+
+aifeynman/results/
+aifeynman/data/
